@@ -1,0 +1,1 @@
+Documentação _placeholder_ para Biblioteca de Persistência de Dados

@@ -1,0 +1,7 @@
+PROJECT_NAME           = "Biblioteca de persistência de dados"
+PROJECT_NUMBER         = "Versão 1.0"
+OUTPUT_DIRECTORY       = ./docs
+TAB_SIZE               = 2
+INPUT                  = ./include
+FILE_PATTERNS          = *.hpp
+RECURSIVE              = YES
